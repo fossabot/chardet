@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcabes%2Fchardet.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcabes%2Fchardet?ref=badge_shield)
+
 Chardet: The Universal Character Encoding Detector
 --------------------------------------------------
 
@@ -66,3 +68,6 @@ supported python 3.x.  We've recently merged with `Ian Cordasco <https://github.
 coherent version that works for Python 2.6+.
 
 :maintainer: Dan Blanchard
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcabes%2Fchardet.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fcabes%2Fchardet?ref=badge_large)
